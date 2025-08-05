@@ -6,7 +6,7 @@ A feature-rich Discord bot that uses a **slash command** (`/createuser`) to open
 
 ## ✨ Features
 
-- Slash command: `/createuser`
+- Slash command: `/createuser` 
 - Opens a modal (form) for user input
 - Validates for duplicate email entries
 - Stores user data (`name`, `email`, `mobile`, `role`) in MongoDB

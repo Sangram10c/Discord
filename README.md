@@ -10,7 +10,7 @@ A feature-rich Discord bot that uses a **slash command** (`/createuser`) to open
 - Opens a modal (form) for user input
 - Validates for duplicate email entries
 - Stores user data (`name`, `email`, `mobile`, `role`) in MongoDB
-- Sends private (ephemeral) success or error messages to the user
+- Sends private (ephemeral) success or error messages to the user 
 - Uses `.env` for secure configuration
 
 ---

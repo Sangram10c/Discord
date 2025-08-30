@@ -17,6 +17,7 @@ A feature-rich Discord bot that uses a **slash command** (`/createuser`) to open
 
 ---
 
+
 ## 📁 Project Structure
 
 - `index.js` – Main entry file of the Discord bot, handles slash command logic, modal creation, and form submission

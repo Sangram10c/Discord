@@ -1,5 +1,6 @@
 
 
+
 # 🤖 Discord User Bot with Modal Form & MongoDB
 
 A feature-rich Discord bot that uses a **slash command** (`/createuser`) to open a **modal form** (pop-up) in Discord, allowing users to input their name, email, mobile number, and role. This data is securely stored in a **MongoDB database** using Mongoose.

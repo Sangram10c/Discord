@@ -7,6 +7,7 @@ A feature-rich Discord bot that uses a **slash command** (`/createuser`) to open
 
 ---
 
+
 ## ✨ Features
 
 - Slash command: `/createuser` 
